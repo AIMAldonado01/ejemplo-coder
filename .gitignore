@@ -1,0 +1,7 @@
+# Acá van a ir los nombres de los archivos que no queremos que se suban al repositorio remoto
+
+# Colocando el nombre del archivo o carpeta
+.jpg
+.jpeg
+.png
+.gif
